@@ -1,0 +1,9 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 9",
+  "commandLine": [
+    "/usr/local/bin/fdroid update",
+    "--create-metadata"
+  ],
+  "startTimestamp": 1654712207000,
+  "subcommand": "update"
+}
